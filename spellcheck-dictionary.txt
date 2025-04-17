@@ -4,6 +4,7 @@
 # Hunspell format: https://www.systutorials.com/docs/linux/man/4-hunspell/
 
 ABI
+ABI 2
 ABI's
 ABIs
 API
